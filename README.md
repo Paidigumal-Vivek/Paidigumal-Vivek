@@ -33,7 +33,7 @@ I am a **Master’s student in Data Analytics Engineering at George Mason Univer
 - Developing **data-driven insights for real-world impact.**  
 
 ## 💻 Let’s Connect!  
-📩 [LinkedIn](www.linkedin.com/in/paidigumal-vivek-patil-)  
+📩 [LinkedIn](https://www.linkedin.com/in/paidigumal-vivek-patil-/)  
 📂 [GitHub](https://github.com/Paidigumal-Vivek)  
 
 🚀 Always open to collaborations and discussions on **data analytics, AI, and data-driven solutions!**  
