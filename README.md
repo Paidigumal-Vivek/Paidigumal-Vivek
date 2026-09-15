@@ -15,15 +15,6 @@ I build analytical solutions that turn complex datasets into clear, decision-rea
 
 ## 🔹 Featured Projects
 
-### 🚔 Kent County Sheriff's Office — Intelligence Analyst Assessment
-**Computer-Aided Dispatch (CAD) Operational Intelligence**
-
-Analyzed approximately **71,864 CAD records** and built a three-page Power BI dashboard covering workload distribution, incident demand, temporal patterns, response performance, deployment intensity, repeat locations, and geographic intelligence.
-
-**Focus:** Power BI · Operational Intelligence · Geographic Analysis · Response-Time Analysis · Resource Allocation
-
-→ [View the full project documentation](./projects/kent-county-intelligence-analyst/)
-
 ### 📊 Analysis of Los Angeles Crime Data
 Applied K-Means clustering and crime trend analysis to identify high-risk zones using crime and business datasets.
 
