@@ -22,13 +22,13 @@ My experience includes **large-scale data analysis, ERP and manufacturing analyt
 
 ## 🔹 Professional Experience
 
-### 🏭 Data Analyst — Manufacturing & Enterprise Analytics
+### 🏭 Data Analyst
 
 - Analyzed **5M+ operational and user-interaction records** using SQL and Python to identify trends, anomalies, and performance patterns.
 - Extracted and transformed data from **SAP-integrated systems, SQL Server, Oracle, and Epicor ERP**, developing Power BI and Tableau dashboards for operational KPIs.
 - Optimized Azure Data Factory and Databricks ETL pipelines, improving processing efficiency by **30%**, while supporting forecasting and ERP-driven process improvements.
 
-### 💻 Data Analyst — Enterprise Analytics
+### 💻 Data Analyst 
 
 - Analyzed enterprise datasets using **SQL, Python, MySQL, PostgreSQL, and AWS Redshift**, reducing report-generation time by **30%**.
 - Built Power BI dashboards for KPI tracking, customer segmentation, and operational analytics.
